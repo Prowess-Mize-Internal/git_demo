@@ -1,4 +1,8 @@
 This is a demo file to show the git push/commit action and its functioning.
 pradeep did soe changes now 
+<<<<<<< HEAD
 
 pradeep did some changes again
+=======
+This is my local changes done by kranthi.
+>>>>>>> 678af99a673173d4ae60eb487fc9ac916ba627a3
